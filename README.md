@@ -2,9 +2,7 @@
 # Minipro IC Identifier
 A command-line tool designed to identify logic ICs using Minipro compatible programmers.
 
-<div align="center">
-![Using Minipro IC Identifier](images/capture_usage.png)
-</div>
+![Using Minipro IC Identifier](images/capture_usage.gif)
 
 ## Features
 - Tests ICs by comparing their behavior against the definitions in the `logicic.xml` file from Minipro.
